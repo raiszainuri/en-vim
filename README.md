@@ -20,5 +20,6 @@ this my repo for backup neovim config,
 1. Copy `init.vim` and `acc/` folder to config dir ex. `.config/nvim/`, don't forget to backup your old `init.vim`
 2. Open `nvim` and run :PlugInstall
 3. Restart `nvim`
-[comment]: <> (`1. Run install.sh 2. If completed, go to neovim and type :PlugInstall 3. Reopen Neovim)`)
+
+[comment]: <> (`1. Run install.sh 2. If completed, go to neovim and type :PlugInstall 3. Reopen Neovim`)
 
