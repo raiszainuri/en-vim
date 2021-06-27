@@ -1,5 +1,5 @@
 # en-vim
-this my repo for backup neovim config, inspired modular config by Mas [@bandithijo](https://github.com/bandithijo/nvimrc)
+this my repo for backup neovim config, inspired modular config by Mas [@bandithijo](https://github.com/bandithijo/nvimrc) nvimrc,
 
 `Neovim Nightly v0.5.0 (AUR)`
 
